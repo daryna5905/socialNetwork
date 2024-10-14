@@ -1,0 +1,168 @@
+{
+	"_id": {
+		"$oid": "616c59d9fd775baa097447cb"
+	},
+	"firstname": "Harry",
+	"lastname": "Styles",
+	"email": "h.stl@gmail.com",
+	"password": "user1",
+	"hobbies": [
+		"sport"
+	],
+	"followPeople": [
+		"616c5a00fd775baa097447d1"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c59dffd775baa097447cc"
+	},
+	"firstname": "Emma",
+	"lastname": "Stone",
+	"email": "e.stn@gmail.com",
+	"password": "user2",
+	"hobbies": [
+		"art",
+		"cooking"
+	],
+	"followPeople": [
+		"616c59e5fd775baa097447cd",
+		"616c5a0bfd775baa097447d3"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c59e5fd775baa097447cd"
+	},
+	"firstname": "Niall",
+	"lastname": "Horan",
+	"email": "n.hrn@gmail.com",
+	"password": "user3",
+	"hobbies": [
+		"golf"
+	],
+	"followPeople": [
+		"616c5a0bfd775baa097447d3",
+		"616c59e5fd775baa097447cd"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c59ebfd775baa097447ce"
+	},
+	"firstname": "Amelia",
+	"lastname": "Woolley",
+	"email": "a.woolley@gmail.com",
+	"password": "user4",
+	"hobbies": [],
+	"followPeople": [
+		"616c59d9fd775baa097447cb",
+		"616c5a11fd775baa097447d4"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c59f2fd775baa097447cf"
+	},
+	"firstname": "Dylan",
+	"lastname": "Obrien",
+	"email": "d.brn@gmail.com",
+	"password": "user5",
+	"hobbies": [
+		"tik tok"
+	],
+	"followPeople": [
+		"616c5a11fd775baa097447d4"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c59fbfd775baa097447d0"
+	},
+	"firstname": "Perrie",
+	"lastname": "Edwards",
+	"email": "p.edw@gmail.com",
+	"password": "user6",
+	"hobbies": [
+		"books"
+	],
+	"followPeople": [
+		"616c5a06fd775baa097447d2",
+		"616c59d9fd775baa097447cb",
+		"616c5a11fd775baa097447d4"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c5a00fd775baa097447d1"
+	},
+	"firstname": "Finneas",
+	"lastname": "OConnell",
+	"email": "f.connell@gmail.com",
+	"password": "user7",
+	"hobbies": [
+		"singing"
+	],
+	"followPeople": [
+		"616c5a11fd775baa097447d4",
+		"616c59f2fd775baa097447cf",
+		"616c59ebfd775baa097447ce",
+		"616c59fbfd775baa097447d0"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c5a06fd775baa097447d2"
+	},
+	"firstname": "Sam",
+	"lastname": "Smith",
+	"email": "s.smith@gmail.com",
+	"password": "user8",
+	"hobbies": [
+		"volunteering"
+	],
+	"followPeople": [
+		"616c59dffd775baa097447cc"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c5a0bfd775baa097447d3"
+	},
+	"firstname": "Austin",
+	"lastname": "McBroom",
+	"email": "a.mcb@gmail.com",
+	"password": "user9",
+	"hobbies": [
+		"box",
+		"basketball"
+	],
+	"followPeople": [
+		"616c59e5fd775baa097447cd",
+		"616c5a11fd775baa097447d4",
+		"616c5a06fd775baa097447d2",
+		"616c59dffd775baa097447cc",
+		"616c5a00fd775baa097447d1"
+	]
+}
+{
+	"_id": {
+		"$oid": "616c5a11fd775baa097447d4"
+	},
+	"firstname": "Sarah",
+	"lastname": "South",
+	"email": "s.south@gmail.com",
+	"password": "user10",
+	"hobbies": [
+		"movies",
+		"traveling"
+	],
+	"followPeople": [
+		"616c59d9fd775baa097447cb",
+		"616c59dffd775baa097447cc",
+		"616c59ebfd775baa097447ce",
+		"616c59f2fd775baa097447cf",
+		"616c59fbfd775baa097447d0",
+		"616c5a0bfd775baa097447d3"
+	]
+}
